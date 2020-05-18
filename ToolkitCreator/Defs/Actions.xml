@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ToolkitCreator.Action>
+    <defName>KillerAnimalAttack</defName>
+    <label>killer animal attack</label>
+    <actionWorker>ToolkitCreator.ActionWorkers.KillerAnimalAttack</actionWorker>
+  </ToolkitCreator.Action>
+
+  <ToolkitCreator.Action>
+    <defName>ViewerColonist</defName>
+    <label>viewer colonist</label>
+    <actionWorker>ToolkitCreator.ActionWorkers.ViewerColonist</actionWorker>
+  </ToolkitCreator.Action>
+
+  <ToolkitCreator.Action>
+    <defName>SmallRaid</defName>
+    <label>small raid</label>
+    <actionWorker>ToolkitCreator.ActionWorkers.SmallRaid</actionWorker>
+  </ToolkitCreator.Action>
+
+  <ToolkitCreator.Action>
+    <defName>LargeRaid</defName>
+    <label>large raid</label>
+    <actionWorker>ToolkitCreator.ActionWorkers.LargeRaid</actionWorker>
+  </ToolkitCreator.Action>
+
+  <ToolkitCreator.Action>
+    <defName>Tornado</defName>
+    <label>tornado</label>
+    <actionWorker>ToolkitCreator.ActionWorkers.Tornado</actionWorker>
+  </ToolkitCreator.Action>
+
+  <ToolkitCreator.Action>
+    <defName>ToxicFallout</defName>
+    <label>toxic fallout</label>
+    <actionWorker>ToolkitCreator.ActionWorkers.ToxicFallout</actionWorker>
+  </ToolkitCreator.Action>
+</Defs>
